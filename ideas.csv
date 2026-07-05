@@ -1,0 +1,2 @@
+id,created_at,title,content,tags,category,status,source,next_action
+20260705-0001,2026-07-05 14:30,用Git仓库当灵感库,"想法来得快去得也快，用 CSV 集中记录，再配脚本快速追加和检索",工具;效率,产品,inbox,搭好基础结构并试用
